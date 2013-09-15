@@ -1,0 +1,5 @@
+{
+	"main": "init.js",
+	"auto-redeploy": true,
+	"preserve-cwd": true
+}
