@@ -13,10 +13,10 @@ After being attached to the vertx-eventbus, send a JSON object
 containing "template_name" and a "data"-object to the handler
 
 Example:
+
 	var address = 'template.icanhaz';
 	var template_name = 'index';
 	var template_data = {"name":"tom"};
-
 	eventbus.send(address, {"template": template, "data": template_data})
 
 
