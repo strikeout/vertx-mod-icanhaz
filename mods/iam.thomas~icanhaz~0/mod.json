@@ -1,4 +1,9 @@
 {
+	"author": "Thomas Steinhauer",
+	"description": "a vert.x module which attaches itself to the vertx eventbus to provide server-side rendered html-templating using the icanhaz rendering engine.",
+	"keywords": ["vertx", "templating", "server-side", "icanhaz"],
+	"homepage": "https://github.com/strikeout/vertx-mod-icanhaz",
+
 	"main": "init.js",
 	"auto-redeploy": true,
 	"preserve-cwd": true

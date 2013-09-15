@@ -1,10 +1,13 @@
+// ICanHaz.js library modification, had to attach reference to vertx.console here. rest of code is vanilla
+var console = require('vertx/console');
+//-END modification
+
+
+
 /*!
  ICanHaz.js version 0.10.2 -- by @HenrikJoreteg
  More info at: http://icanhazjs.com
  */
-
-var console = require('vertx/console');
-
 (function () {
     /*
      mustache.js — Logic-less templates in JavaScript

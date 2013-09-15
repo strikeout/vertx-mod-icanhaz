@@ -1,4 +1,5 @@
 {
 	"address": "tmpl",
-	"template-dir": "./templates"
+	"template-dir": "./templates",
+	"template-suffix": "html"
 }
