@@ -6,7 +6,7 @@ var config = container.config;
 var eb = vertx.eventBus;
 
 // defaults
-var address = container.config.address || "template.ich"
+var address = container.config.address || "template.icanhaz"
 var template_dir = container.config.template_dir || "./templates"
 var template_suffix = container.config.template_suffix || "html"
 
