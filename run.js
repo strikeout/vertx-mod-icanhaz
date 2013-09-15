@@ -15,7 +15,7 @@ container.deployModule("org.crashub~vertx.shell~2.0.0", {
     "crash.ssh.port": 2000
 });
 
-container.deployModule('iam.thomas~icanhaz~0', config, 1);
+container.deployModule('iam.thomas~icanhaz~0.1', config, 1);
 
 /**
  * for testing, attach the crashub shell here:
